@@ -1,2 +1,2 @@
-# DijkstraWuhan
+# dijkstra_wuhan
 基于Dijkstra算法的武汉地铁路径规划
